@@ -1,6 +1,8 @@
 
 <div align="center">
 
+  <img src="./.assets/logo.png">
+
   ## Welcome to the FOREST
 
 </div>
@@ -12,7 +14,7 @@ entusiastas de las tecnologías Open Source y la filosofía Free.
 
 Esta es una comunidad abierta con unas bases claras listadas a continuación:
 
-- Frederick las bases
+- @DemonioDeTasmania las bases
 
 @Cuervo mira esto
 #### ¿Quieres unirte a FOREST?
