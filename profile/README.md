@@ -1,13 +1,14 @@
 
 <div align="center">
 
-  <img src="./.assets/logo.png">
+  <img src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/logo.png">
 
   ## Welcome to the FOREST
 
 </div>
-  
-Abreviado "FOREST" es una comunidad de software conformado por universitarios, developers y
+
+Fully Open Responsable Engineering Scalable Team abreviado "FOREST"
+es una comunidad de software conformado por universitarios, developers y
 entusiastas de las tecnologías Open Source y la filosofía Free.
 
 <!--
