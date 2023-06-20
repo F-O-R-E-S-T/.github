@@ -125,8 +125,6 @@
   </p>
 </div>
 
-
-
 <!--
 
 Esta es una comunidad abierta con unas bases claras listadas a continuación:
