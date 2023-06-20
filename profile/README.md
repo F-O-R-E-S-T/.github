@@ -7,7 +7,7 @@
 
 </div>
 
-Fully Open Responsable Engineering Scalable Team abreviado "FOREST"
+Fully Open Responsible Engineering Scalable Team abreviado "FOREST"
 es una comunidad de software conformado por universitarios, developers y
 entusiastas de las tecnologías Open Source y la filosofía Free.
 
