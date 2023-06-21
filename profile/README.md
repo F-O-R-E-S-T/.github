@@ -21,7 +21,7 @@
 
 ## Fundadores
 
-<table>
+<table align="center">
   <tr>
     <td valign="top">
         <p align="center">
