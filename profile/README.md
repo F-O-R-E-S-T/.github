@@ -159,7 +159,7 @@ Nos gusta conocer a nuestros nuevos retoños, por ellos tenemos varias maneras d
   
 <div align="center" style="margin: 10px;">
   <p>
-    <a href="[https://www.youtube.com/@andresprieto1439](https://www.youtube.com/channel/UC85PJzUXfZJCvshpv_L__Pg)" target="blank">
+    <a href="https://www.youtube.com/channel/UC85PJzUXfZJCvshpv_L__Pg" target="blank">
       <img
         src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube"
         alt="YouTube: @FOREST_Community"
