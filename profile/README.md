@@ -19,6 +19,8 @@
     entusiastas de las tecnologías Open Source y la filosofía Free.
 </p>
 
+
+
 ## Fundadores
 
 <table align="center">
@@ -151,9 +153,25 @@ Nos gusta conocer a nuestros nuevos retoños, por ellos tenemos varias maneras d
 - ¿Conoces a uno de nuestros arboles? Dinos, eso sería más rapido, nuestra redes siempre estan abiertas a nuevos integrantes
 - ¿No conoces a nadie? Escribenos
 
-@Panda mira esto
-### Encuentranos en nuestras redes
-
-[Linkedin](Forest-linkedin)
-[YouTube](Forest-youtube)
 -->
+
+## Encuentranos en nuestras redes
+  
+<div align="center" style="margin: 10px;">
+  <p>
+    <a href="[https://www.youtube.com/@andresprieto1439](https://www.youtube.com/channel/UC85PJzUXfZJCvshpv_L__Pg)" target="blank">
+      <img
+        src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube"
+        alt="YouTube: @FOREST_Community"
+      />
+    </a>
+    <!--
+    <a href="https://www.linkedin.com/in/andres-m-prieto/?locale=en_US">
+      <img
+        src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+        alt="Linkedin: andres-m-prieto"
+      />
+    </a>
+    -->
+  </p>
+</div>
