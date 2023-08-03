@@ -28,7 +28,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="https://media.licdn.com/dms/image/D4E03AQEMt9oiNH287Q/profile-displayphoto-shrink_800_800/0/1689810679674?e=1696464000&v=beta&t=nY_kZiy6FvvVsm7EdDyDMopohTNnD0LM-ylBN2pY0zs"
+                src="https://media.licdn.com/dms/image/D4E03AQEMt9oiNH287Q/profile-displayphoto-shrink_200_200/0/1689810679674?e=1696464000&v=beta&t=2mKg2AQNm7jYldCS7qxIMn0Zry58klx4YTdQt7Qpu5Q"
                 alt="Andres M. Prieto"
             />
         </p>
