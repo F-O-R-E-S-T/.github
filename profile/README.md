@@ -138,8 +138,9 @@
 
 ## Miembros
 
-<div align="center">
-    <p align="center">
+<table align="center">
+  <tr>
+    <td valign="top">
         <p align="center">
             <img
                 src="https://media.licdn.com/dms/image/D4E35AQGRX4fRzOjF_g/profile-framedphoto-shrink_200_200/0/1687829525099?e=1693126800&v=beta&t=01NlB3ZBHDfRIst1N-CbpFHKaCekrefHzXtT84qIJSU"
@@ -165,8 +166,9 @@
               />
             </a>
         </p>
-    </p>
-</div>
+    </td>
+  </tr>
+</table>
 
 <!--
 
