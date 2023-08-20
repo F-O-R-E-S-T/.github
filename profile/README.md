@@ -197,6 +197,12 @@ Nos gusta conocer a nuestros nuevos retoños, por ellos tenemos varias maneras d
         alt="YouTube: @FOREST_Community"
       />
     </a>
+    <a href="https://t.me/+_izDPiJDxNtlMmIx" target="blank">
+      <img
+        src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram"
+        alt="Telegram: https://t.me/+_izDPiJDxNtlMmIx"
+      />
+    </a>
     <!--
     <a href="https://www.linkedin.com/in/andres-m-prieto/?locale=en_US">
       <img
