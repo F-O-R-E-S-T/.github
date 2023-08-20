@@ -138,8 +138,6 @@
 
 ## Miembros
 
-### Web branch
-
 <div align="center">
     <p align="center">
         <p align="center">
