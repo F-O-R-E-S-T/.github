@@ -19,8 +19,6 @@
     entusiastas de las tecnologías Open Source y la filosofía Free.
 </p>
 
-
-
 ## Fundadores
 
 <table align="center">
@@ -138,6 +136,40 @@
   </tr>
 </table>
 
+## Miembros
+
+### Web branch
+
+<div align="center">
+    <p align="center">
+        <p align="center">
+            <img
+                src="https://media.licdn.com/dms/image/D4E35AQGRX4fRzOjF_g/profile-framedphoto-shrink_200_200/0/1687829525099?e=1693126800&v=beta&t=01NlB3ZBHDfRIst1N-CbpFHKaCekrefHzXtT84qIJSU"
+                alt="Juan José Ochoa"
+            />
+        </p>
+        <p align="center">
+            <h3 align="center">
+                Juan José Ochoa
+            </h3>
+        </p>
+        <p align="center">
+            <a href="https://www.linkedin.com/in/juan8acardona/" target="blank">
+              <img
+                src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+                alt="LinkedIn: Juan José Ochoa Cardona"
+              />
+            </a>
+            <a href="https://github.com/Juan8a23" target="blank">
+              <img
+                src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=GitHub"
+                alt="GitHub: @Juan8a23"
+              />
+            </a>
+        </p>
+    </p>
+</div>
+
 <!--
 
 Esta es una comunidad abierta con unas bases claras listadas a continuación:
@@ -156,7 +188,7 @@ Nos gusta conocer a nuestros nuevos retoños, por ellos tenemos varias maneras d
 -->
 
 ## Encuentranos en nuestras redes
-  
+
 <div align="center" style="margin: 10px;">
   <p>
     <a href="https://www.youtube.com/channel/UC85PJzUXfZJCvshpv_L__Pg" target="blank">
