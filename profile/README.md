@@ -26,7 +26,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="https://media.licdn.com/dms/image/D4E03AQEMt9oiNH287Q/profile-displayphoto-shrink_200_200/0/1689810679674?e=1696464000&v=beta&t=2mKg2AQNm7jYldCS7qxIMn0Zry58klx4YTdQt7Qpu5Q"
+                src="./.assets/members/andres.png"
                 alt="Andres M. Prieto"
             />
         </p>
@@ -53,7 +53,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="https://media.licdn.com/dms/image/D4E03AQG0FgbfhtPtYQ/profile-displayphoto-shrink_200_200/0/1678631379020?e=1692835200&v=beta&t=gG6UNRzuu4NbKPPMq7jwByH1iPrNkyg1wWNkS_zKeto"
+                src="./.assets/members/dany.png"
                 alt="Daniela Ospina Salamanca"
             />
         </p>
@@ -82,7 +82,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="https://media.licdn.com/dms/image/D4E03AQEW_CmGuoT9oA/profile-displayphoto-shrink_200_200/0/1687052437259?e=1692835200&v=beta&t=-jLKw2UedCD5OabUm9_RbFto9oLPC5dEdi0n_k_gnYk"
+                src="./.assets/members/crish.png"
                 alt="Cristhian Andrés Grajales Pérez"
             />
         </p>
@@ -109,7 +109,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="https://media.licdn.com/dms/image/D4E03AQEklevj7vGBpg/profile-displayphoto-shrink_200_200/0/1686443042955?e=1692835200&v=beta&t=r-WFa5a_Cu5HbM_KpEYxRYnmA67krvfkVMbGCHca5_Y"
+                src="./.assets/members/frederick.png"
                 alt="Frederick Johan Castañeda Perez"
             />
         </p>
@@ -143,7 +143,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="https://media.licdn.com/dms/image/D4E35AQGRX4fRzOjF_g/profile-framedphoto-shrink_200_200/0/1687829525099?e=1693126800&v=beta&t=01NlB3ZBHDfRIst1N-CbpFHKaCekrefHzXtT84qIJSU"
+                src="./.assets/members/juan.png"
                 alt="Juan José Ochoa"
             />
         </p>
@@ -167,6 +167,34 @@
             </a>
         </p>
     </td>
+    <td valign="top">
+        <p align="center">
+            <img
+                src="./.assets/members/ana.png"
+                alt="Ana Sofía Beltran"
+            />
+        </p>
+        <p align="center">
+            <h3 align="center">
+                Ana Sofía Beltran
+            </h3>
+        </p>
+        <p align="center">
+            <a href="https://www.linkedin.com/in/ana-sofia-beltran-63743321a/" target="blank">
+              <img
+                src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+                alt="LinkedIn: Ana Sofía Beltran"
+              />
+            </a>
+            <a href="https://github.com/anasofiabeltran" target="blank">
+              <img
+                src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=GitHub"
+                alt="GitHub: @anasofiabeltran"
+              />
+            </a>
+        </p>
+    </td>
+
   </tr>
 </table>
 
