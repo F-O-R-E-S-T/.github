@@ -26,7 +26,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="./.assets/members/andres.png"
+                src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/members/andres.png"
                 alt="Andres M. Prieto"
             />
         </p>
@@ -53,7 +53,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="./.assets/members/dany.png"
+                src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/members/dany.png"
                 alt="Daniela Ospina Salamanca"
             />
         </p>
@@ -82,7 +82,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="./.assets/members/crish.png"
+                src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/members/crish.png"
                 alt="Cristhian Andrés Grajales Pérez"
             />
         </p>
@@ -109,7 +109,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="./.assets/members/frederick.png"
+                src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/members/frederick.png"
                 alt="Frederick Johan Castañeda Perez"
             />
         </p>
@@ -143,7 +143,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="./.assets/members/juan.png"
+                src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/members/juan.png"
                 alt="Juan José Ochoa"
             />
         </p>
@@ -170,7 +170,7 @@
     <td valign="top">
         <p align="center">
             <img
-                src="./.assets/members/ana.png"
+                src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/members/ana.png"
                 alt="Ana Sofía Beltran"
             />
         </p>
