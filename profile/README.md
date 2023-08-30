@@ -16,7 +16,8 @@
 <p align="center">
     Fully Open Responsable Engineering Scalable Team abreviado "FOREST"
     es una comunidad de software conformado por universitarios, developers y
-    entusiastas de las tecnologías Open Source y la filosofía Free.
+    entusiastas de las tecnologías Open Source y la filosofía Free. Nos dedicamos
+    a compartir de manera abierta conocimientos relacionados con el software e IT
 </p>
 
 ## Fundadores
@@ -198,23 +199,6 @@
   </tr>
 </table>
 
-<!--
-
-Esta es una comunidad abierta con unas bases claras listadas a continuación:
-
-- @DemonioDeTasmania las bases
-
-@Cuervo mira esto
-#### ¿Quieres unirte a FOREST?
-
-Nos gusta conocer a nuestros nuevos retoños, por ellos tenemos varias maneras de unirte:
-
-- Usa este formulario para unirte con una solucitud normal
-- ¿Conoces a uno de nuestros arboles? Dinos, eso sería más rapido, nuestra redes siempre estan abiertas a nuevos integrantes
-- ¿No conoces a nadie? Escribenos
-
--->
-
 ## Encuentranos en nuestras redes
 
 <div align="center" style="margin: 10px;">
@@ -231,13 +215,11 @@ Nos gusta conocer a nuestros nuevos retoños, por ellos tenemos varias maneras d
         alt="Telegram: https://t.me/+_izDPiJDxNtlMmIx"
       />
     </a>
-    <!--
-    <a href="https://www.linkedin.com/in/andres-m-prieto/?locale=en_US">
+    <a href="https://www.linkedin.com/company/forest-software-community/about/">
       <img
         src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
-        alt="Linkedin: andres-m-prieto"
+        alt="Linkedin: Forest Software Community"
       />
     </a>
-    -->
   </p>
 </div>
