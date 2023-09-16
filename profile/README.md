@@ -195,7 +195,60 @@
             </a>
         </p>
     </td>
-
+    <td valign="top">
+        <p align="center">
+            <img
+                src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/members/jaime.png"
+                alt="Jaime Andrés Valencia"
+            />
+        </p>
+        <p align="center">
+            <h3 align="center">
+                Jaime Andrés Valencia
+            </h3>
+        </p>
+        <p align="center">
+            <a href="https://www.linkedin.com/in/jgamer42" target="blank">
+              <img
+                src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+                alt="LinkedIn: Jaime Andrés Valencia Gaviria"
+              />
+            </a>
+            <a href="https://github.com/jgamer42" target="blank">
+              <img
+                src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=GitHub"
+                alt="GitHub: @jgamer42"
+              />
+            </a>
+        </p>
+    </td>
+    <td valign="top">
+        <p align="center">
+            <img
+                src="https://raw.githubusercontent.com/F-O-R-E-S-T/.github/main/profile/.assets/members/juanse.png"
+                alt="Juan Sebastian Gomez Diaz"
+            />
+        </p>
+        <p align="center">
+            <h3 align="center">
+                Juan Sebastian Gomez Diaz
+            </h3>
+        </p>
+        <p align="center">
+            <a href="https://www.linkedin.com/in/ingjuansegomez" target="blank">
+              <img
+                src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+                alt="LinkedIn: Juan Sebastian Gomez Diaz"
+              />
+            </a>
+<!--            <a href="https://github.com/jgamer42" target="blank">-->
+              <!--<img-->
+                <!--src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=GitHub"-->
+                <!--alt="GitHub: @jgamer42"-->
+              <!--/>-->
+            <!--</a>-->
+        </p>
+    </td>
   </tr>
 </table>
 
